@@ -2,5 +2,9 @@
   {
     "package": "flowcam",
     "url": "https://github.com/ConnorB/flowcam"
+  },
+  {
+    "package": "preMetabolizer",
+    "url": "https://github.com/ConnorB/preMetabolizer"
   }
 ]
